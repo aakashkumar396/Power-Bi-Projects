@@ -1,0 +1,14 @@
+AGENDA
+******
+- Help an organization to improve employee performance and improve retention( reduce attrition)
+  by creating HR Analytics Dashboard
+
+
+STEPS
+*****
+1. Data cleaning and processing
+	i.	removing null values 
+	ii.	removing duplicate values
+	iii.	detected data type
+
+2. Visualizations
